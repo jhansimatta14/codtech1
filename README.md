@@ -1,9 +1,9 @@
-Name:Matta Jhansi
-Company:CODTECH IT SOLUTIONS
-ID:CT6VLSI1243
-Domain:VLSI
-Duration:July to August 2024
-Mentor:Muzammil Ahmed
+Name:Matta Jhansi.
+Company:CODTECH IT SOLUTIONS.
+ID:CT6VLSI1243.
+Domain:VLSI.
+Duration:July to August 2024.
+Mentor:Muzammil Ahmed.
 
 **Overview of the project**
 project:Finite State Machine(FSM)Design using vlsi
@@ -19,7 +19,7 @@ This Verilog module defines a basic FSM with three states (IDLE, STATE_1, FINAL)
 - *Outputs:*
   - out1: Output signal indicating whether the FSM is in STATE_1 (1 if true).
   - out2: Output signal indicating whether the FSM is in FINAL (1 if true).
-# State Encoding
+ State Encoding
 - **state (reg [2:0] state):** This 3-bit register stores the current state of the FSM.
 - *State Parameters:*
   - IDLE (3'b001): Initial and default state.
