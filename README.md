@@ -21,7 +21,7 @@ This Verilog module defines a basic FSM with three states (IDLE, STATE_1, FINAL)
 
 **KeyActivities**
 
- *Inputs:*
+- *Inputs:*
   - clk: Clock signal, used for synchronous operation.
   - a: Input signal that controls state transitions.
   
@@ -36,7 +36,7 @@ This Verilog module defines a basic FSM with three states (IDLE, STATE_1, FINAL)
   - FINAL (3'b100): State transitioned to from STATE_1 when a is asserted (1).
 
     Techologies used
-    * vlsi: The primary programming language use for designing FSM
-    * EDA Playground:is used to executive the programe
-    * simulator:is used to obtain the output waveform
+    * VLSI: The primary programming language use for designing FSM
+    * EDA Playground:Is used to executive the programe
+    * SIMULATOR :Is used to obtain the output waveform
 
