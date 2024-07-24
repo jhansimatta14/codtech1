@@ -1,17 +1,24 @@
 Name:Matta Jhansi.
+
 Company:CODTECH IT SOLUTIONS.
+
 ID:CT6VLSI1243.
+
 Domain:VLSI.
+
 Duration:July to August 2024.
+
 Mentor:Muzammil Ahmed.
 
 **Overview of the project**
+
 project:Finite State Machine(FSM)Design using vlsi
 
 **objective**
 This Verilog module defines a basic FSM with three states (IDLE, STATE_1, FINAL) and two outputs (out1, out2) that indicate whether the FSM is in STATE_1 or FINAL, respectively. The FSM transitions between states based on the input a and operates synchronously with the clock signal clk.
 
 **KeyActivities**
+
  *Inputs:*
   - clk: Clock signal, used for synchronous operation.
   - a: Input signal that controls state transitions.
